@@ -1,0 +1,23 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "name": "Americano",
+      "price": "45฿",
+      "image": "assets/icons/Ameri.jpg",
+      "smallDescription": "Espresso with hot water...",
+      "description": "Americano is an espresso drink...",
+      "rating": 5.0
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "price": "50฿",
+      "image": "assets/icons/capu.png",
+      "smallDescription": "Espresso with cream...",
+      "description": "Cappuccino is the perfect balance...",
+      "rating": 4.5
+    }
+  ]
+}
+
